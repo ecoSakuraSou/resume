@@ -45,8 +45,9 @@
 
 
 ### CMS项目 
-我在此项目负责了对接Booking，艺龙等渠道。
+本人在此项目负责了对接Booking，艺龙等渠道，使用ultraesb实现渠道对象到本地对象的转换。
 ### PMS项目
+本人主要负责订单模块和消息模块以及任务模块的开发，订单模块和消息模块均使用了spring-ws，任务模块用的是activti工作流。
 
 ### 
 
@@ -57,21 +58,20 @@
 1. 维护听云 server、idass 和 saas 相关服务器
 2. 协助管理听云 app 产品升级和维护，协助解决听云 app 的相关问题
 3. 维护官网服务器
+4. 学习docker，并把部分web项目迁移到docker上
 ### 听云server项目
-
-（每个公司写2~3个核心项目就好了，如果你有非常大量的项目，那么按分类进行合并，每一类选一个典型写出来。其他的一笔带过即可。）
+本人主要参与听云server架构的调整，听云server的日常维护和升级。
 
 
 ## 技能清单
 
-以下均为我熟练使用的技能
+以下为我熟练使用的技能（从左往右递减）
 
-- Web开发：JavaWeb/Node
-- Java框架：Spring/Spring Boot/
-- 数据库相关：MySQL/Redis/Sql
-- 版本管理、文档和自动化部署工具：Svn/Git/Jenkins/Maven/Gradle
-- 单元测试：JUnit
-- 操作系统：Linux
+```java
+
+Java、Spring、SpringMVC、Linux、Mysql、Git、JVM、Nginx、Shiro、Mybatis、Jenkins、Maven、Gradle、Html、Js
+
+```
 
 ## 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
