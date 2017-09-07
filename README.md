@@ -10,7 +10,7 @@
 
 ## 个人信息
 
- - 燕子上/男/1992 
+ - 男/1992/河北石家庄 
  - 本科/江苏科技大学计算机系 
  - 工作年限：2年
  - 期望职位：Java开发工程师
@@ -45,9 +45,9 @@
 
 
 ### CMS项目 
-本人在此项目负责了对接Booking，艺龙等渠道，使用ultraesb实现渠道对象到本地对象的转换。
+本人在此项目负责Booking，艺龙等渠道的对接。
 ### PMS项目
-本人主要负责订单模块和消息模块以及任务模块的开发，订单模块和消息模块均使用了spring-ws，任务模块用的是activti工作流。
+本人主要负责订单模块和消息模块以及任务模块的开发，订单模块和消息模块均使用了spring-ws，任务模块使用的是activti工作流。
 
 ### 
 
@@ -69,9 +69,7 @@
 
 ```java
 
-Java、Spring、SpringMVC、Linux、Mysql、Git、JVM、Nginx、Shiro、Mybatis、Jenkins、Maven、Gradle、Html、Js
+java,spring家族,linux,mysql,git,jvm,nginx,shiro,mybatis,redis,jenkins,maven,gradle,html,js,docker,zookeeper
 
 ```
 
-## 致谢
-感谢您花时间阅读我的简历，期待能有机会和您共事。
