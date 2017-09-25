@@ -32,11 +32,12 @@ spring,springboot,mybatis,mysql,redis,zookeeper,lts,git,shiro,gradle
 1. 维护现有系统(CRM)，并配合产品开发新功能
 2. 使用 shiro 开发现有系统的权限管理系统
 3. 编写 java 爬虫爬去媒体数据
+4. 代码审核
 
 
 #### CRM系统
 
-本人在此项目中主要负责权限模块和日报模块的设计，同时管理着3人的小团队，给3个人分配任务，推动系统迭代更新，并负责review代码。
+主要开放对象是广告主和广告代理商，简化运营操作，导入导出数据报表，方便人员管理，做到了产品、媒体、帐号级别的权限控制，对接了百度凤巢的信息流广告投放API，实现了在CRM系统中投放广告。
 
  
 ### 北京亿盟网联科技有限责任公司 （ 2016年06月 ~ 2017年03月 ）
@@ -57,7 +58,13 @@ spring,spring-jpa,spring-security,mysql,svn,activiti,easyrules,jenkins,maven
 
 #### CMS项目 
 本人在此项目负责Booking，艺龙等渠道的对接。
+酒店CMS主要对接不同渠道（艺龙、booking等），通过webservice调用渠道提供的接口，处理返回数据入库，供酒店pms使用。
+主要技术：ultraesb、soap
+
 #### PMS项目
+酒店PMS，主要针对酒店内部人员。酒店内部人员接受订单，开关房，调价等操作。
+模块：订单管理、人员管理、任务管理和房型管理等模块。
+技术：spring,springmvc,spring-data-jpa,spring security,activiti,thymeleaf,html,js
 本人主要负责订单模块和消息模块以及任务模块的开发，订单模块和消息模块均使用了spring-ws，任务模块使用的是activti工作流。
 
 
